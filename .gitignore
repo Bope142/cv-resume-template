@@ -1,0 +1,8 @@
+images/icons
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+css/sass
+icons-imgs/*.svg
+
