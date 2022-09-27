@@ -23,7 +23,6 @@ window.addEventListener('load', () => {
     document.querySelector('.loading-page').style.display = 'none'
     document.querySelector('.Welcome-section').style.display = 'flex'
     document.querySelector('.container').style.height = '100%'
-    document.querySelector('.cv').style.display = 'flex'
     progressSkill()
     showCv()
 })
