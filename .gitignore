@@ -1,8 +1,10 @@
-images/icons
 .sass-cache/
 *.css.map
 *.sass.map
 *.scss.map
 css/sass
 icons-imgs/*.svg
-
+fonts/Kalam-Bold.ttf
+fonts/Poppins-Medium.ttf
+fonts/Poppins-Regular.ttf
+fonts/Poppins-Bold.ttf
